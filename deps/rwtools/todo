@@ -1,0 +1,14 @@
+Rewrite everything to be more RW like (especially the plugin system)
+
+DFF
+---
+- parse 2dfx
+- parse uvanim
+- parse collision (merge code by thelink2012)
+- rewrite the handling of native data to not ignore the pipeline
+
+TXD
+---
+- work on this more in general
+- use quiret's code
+
